@@ -2,5 +2,32 @@ img{
     margin-bottom: 0;
 }
 table{
+    font-family: Arial, sans-serif;
     border-collapse: collapse;
+    max-width: 600px;
+}
+body{
+    margin: 0;
+    background: #0c131b;
+}
+.center{
+    text-align: center;
+}
+h1{
+    margin: 0;
+    text-transform: uppercase;
+    color: #20b4bb;
+    font-weight: bold;
+    font-size: 55px;
+}
+h2{
+    margin: 0;
+    color: #bcbcbd;
+    font-size: 36px;
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    color: #86918c;
+    margin: 0;
 }
