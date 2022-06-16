@@ -2,11 +2,11 @@ img{
     margin-bottom: 0;
 }
 table{
-    font-family: Arial, sans-serif;
     border-collapse: collapse;
     max-width: 600px;
 }
 body{
+    font-family: Arial sans-serif;
     margin: 0;
     background: #0c131b;
 }
@@ -32,4 +32,7 @@ p{
     font-size: 14px;
     color: #86918c;
     margin: 0;
+}
+a{
+    font-weight: bold;
 }
