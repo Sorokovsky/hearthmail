@@ -1,14 +1,15 @@
 img{
     margin-bottom: 0;
+    vertical-align: bottom;
 }
 table{
     border-collapse: collapse;
     max-width: 600px;
+    background-color: #0c131b;
 }
 body{
-    font-family: Arial sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
-    background: #0c131b;
 }
 .center{
     text-align: center;
