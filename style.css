@@ -19,12 +19,14 @@ h1{
     color: #20b4bb;
     font-weight: bold;
     font-size: 55px;
+    text-align: center;
 }
 h2{
     margin: 0;
     color: #bcbcbd;
     font-size: 36px;
     font-weight: bold;
+    text-align: center;
 }
 p{
     font-size: 14px;
