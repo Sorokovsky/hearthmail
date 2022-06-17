@@ -137,7 +137,7 @@ h3{
     display: inline;
 }
 .socs{
-    padding-bottom: 20px;
+    padding-bottom: 28px;
 }
 .socs a{
     display: inline-block;
@@ -145,4 +145,10 @@ h3{
 }
 .nopd{
     padding: 0 !important;
+}
+.pb46{
+    padding-bottom: 46px !important;
+}
+.pb46 img{
+    margin-bottom: 5px;
 }
